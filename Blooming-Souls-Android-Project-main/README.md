@@ -1,4 +1,4 @@
-# Blooming Souls - Android Project
+# Educational App - Android Project
 
 ### The application to provide rich courses for academic mentoring, personality development and career guidance by the experts! It is built using Android (native) and Firebase.
 
